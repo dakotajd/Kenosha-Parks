@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kenosha Park</string>
+
+
+    <string name="section_home">Home</string>
+    <string name="section_events">Events</string>
+    <string name="section_reminders">Reminders</string>
+    <string name="section_links">Links</string>
+    
+    <string name="lincoln">Lincoln Park</string>
+    <string name="hobbs">Hobbs Park</string>
+    <string name="roosevelt">Roosevelt Park</string>
+    <string name="link_kpa_desc">Community organized parks programs for youth and neighborhood development.</string>
+    <string name="link_kpl_desc">Kenosha Public Library provides the highest quality library resources for information, recreation, and lifelong learning for residents of all ages in the City and County of Kenosha.</string>
+    <string name="link_they_desc">The Y is a powerful association of men, women, and children of all ages and from all walks of life joined together by a shared passion: to strengthen the foundations of community.</string>
+    <string name="link_bag_desc"><![CDATA[Boys & Girls Club of Kenosha serves the youth of Kenosha in their health, social, educational, vocational and character development]]></string>
+    <string name="visit_website">Visit website</string>
+    <string name="all">All</string>
+</resources>

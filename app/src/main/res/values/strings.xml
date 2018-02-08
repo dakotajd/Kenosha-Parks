@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EventsManagement</string>
+    <string name="title_activity_reminder">ReminderActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationName">Park</string>
+    <string name="area">Area</string>
+    <string name="indoors">Indoors</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="all">All</string>
+    <string name="distance">Distance</string>
+    <string name="price">Price</string>
+    <string name="free_all_caps">FREE</string>
+    <string name="date">Date</string>
+    <string name="age_group">Age Group</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+
+    <string name="today">TODAY</string>
+    <string name="events">events</string>
+    <string name="is_reoccurring">Show reoccurring events</string>
+
+</resources>
